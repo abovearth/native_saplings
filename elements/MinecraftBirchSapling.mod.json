@@ -1,0 +1,39 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "mutated_plains"
+      }
+    ],
+    "name": "minecraft_birch_sapling",
+    "namespace": "mod"
+  }
+}

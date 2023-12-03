@@ -1,0 +1,7 @@
+{
+  "_fv": 47,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">crop_attempts_growth</field></block><block type=\"text_print\" x=\"54\" y=\"185\"><value name=\"TEXT\"><block type=\"text_join\"><mutation items=\"4\"></mutation><value name=\"ADD0\"><block type=\"block_registry_name\"><value name=\"block\"><block type=\"world_data_blockat\"><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"coord_y\"></block></value><value name=\"z\"><block type=\"coord_z\"></block></value></block></value></block></value><value name=\"ADD1\"><block type=\"text\"><field name=\"TEXT\"> crop grows</field></block></value><value name=\"ADD2\"><block type=\"text\"><field name=\"TEXT\"> Block below is </field></block></value><value name=\"ADD3\"><block type=\"block_registry_name\"><value name=\"block\"><block type=\"world_data_blockat\"><value name=\"x\"><block type=\"coord_x\"></block></value><value name=\"y\"><block type=\"math_dual_ops\"><field name=\"OP\">MINUS</field><value name=\"A\"><block type=\"coord_y\"></block></value><value name=\"B\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value></block></value><value name=\"z\"><block type=\"coord_z\"></block></value></block></value></block></value></block></value></block></xml>"
+  }
+}

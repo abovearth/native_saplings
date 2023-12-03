@@ -1,0 +1,42 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "grove"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      }
+    ],
+    "name": "minecraft_spruce_sapling",
+    "namespace": "mod"
+  }
+}

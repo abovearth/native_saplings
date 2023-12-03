@@ -1,0 +1,18 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "warped_forest"
+      }
+    ],
+    "name": "minecraft_warped_fungus",
+    "namespace": "mod"
+  }
+}

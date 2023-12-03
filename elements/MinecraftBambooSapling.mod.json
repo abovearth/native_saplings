@@ -1,0 +1,18 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "bamboo_jungle"
+      }
+    ],
+    "name": "minecraft_bamboo_sapling",
+    "namespace": "mod"
+  }
+}

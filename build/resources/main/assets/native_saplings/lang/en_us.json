@@ -1,0 +1,5 @@
+{
+  "gamerule.plantSaplingsOnlyInNativeBiomes.description": "Wiht this gamerule enabled, saplings can only be planted in the native biome where the tree can be found in the world.",
+  "item.native_saplings.biology_book": "Biology Book",
+  "gamerule.plantSaplingsOnlyInNativeBiomes": "Plant saplings only in native biomes"
+}

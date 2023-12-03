@@ -1,0 +1,24 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.CACTUS"
+      },
+      {
+        "value": "Blocks.CHORUS_FLOWER"
+      },
+      {
+        "value": "Blocks.KELP"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "grow_check_block_below",
+    "namespace": "mod"
+  }
+}

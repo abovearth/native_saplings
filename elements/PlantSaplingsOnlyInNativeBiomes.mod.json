@@ -1,0 +1,12 @@
+{
+  "_fv": 47,
+  "_type": "gamerule",
+  "definition": {
+    "type": "Logic",
+    "displayName": "Plant saplings only in native biomes",
+    "description": "Wiht this gamerule enabled, saplings can only be planted in the native biome where the tree can be found in the world.",
+    "category": "MISC",
+    "defaultValueLogic": true,
+    "defaultValueNumber": 0
+  }
+}
